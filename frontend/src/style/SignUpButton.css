@@ -1,0 +1,12 @@
+.signup-button{
+    width:20vw;
+    font-size: 1em;
+    font-weight: 300;
+    border-radius: 10px;
+    padding:10px;
+    border: 1px black solid;
+    margin-bottom:20px;
+}
+.button-signup-name{
+    margin-left:2vw;
+}

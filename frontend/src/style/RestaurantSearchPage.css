@@ -1,0 +1,83 @@
+.find-rest-page{
+    background-color: rgb(211,101,130,.19);
+    width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.rest-logo{
+    height:5vh;
+    width:5vh;
+    margin:auto;
+    display:inline-block;
+
+}
+.nearme-input{
+    width:20vw;
+    font-size: 1em;
+    font-weight: 300;
+    border-radius: 10px;
+    padding:10px;
+    margin: 0 auto;
+    border: 1px black solid;
+    margin-bottom:20px;
+    background-color: rgb(140,179,105,.19);
+    margin-right:10px;
+}
+.ti-header{
+    margin-right:3vw;
+}
+.results{
+    padding:3vw;
+    background-color:white;
+    width:75vw;
+    margin:0 auto;
+}
+.sort-select{
+    font-size: 1.0em;
+    font-family: OpenSans;
+}
+.header-div{
+    width:100vw;
+    margin: 0 auto;
+    margin-bottom: 2vh;
+    
+}
+.header{
+    
+    font-size: 1.4em;
+    font-weight: 200;
+}
+.all-rest-subheaders{
+    width:50vw;
+    margin: 0 auto;
+}
+.rest-header{
+    font-weight: 500;
+    font-size:1.3em;
+    margin-bottom:2vh;
+}
+.rest-subheader{
+    font-weight: 500;
+    margin:1vw;
+    text-align: center;
+}
+.navigation{
+    border-bottom: 1px rgb(211,101,130,.54) solid;
+    position: absolute;
+    top:0;
+    left:0;
+    height:6vh;
+    width:100vw;
+    padding:1vh;
+}
+.nav-title{
+    display: inline-block;
+    font-size:1.5em;
+    font-weight: 200;
+    width:33vw;
+    margin:auto;
+    text-align: center;
+}

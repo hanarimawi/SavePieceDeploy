@@ -1,0 +1,24 @@
+.login-input{
+    width:20vw;
+    font-size: 1em;
+    font-weight: 300;
+    border-radius: 10px;
+    padding:10px;
+    margin: 0 auto;
+    border: 1px black solid;
+    margin-bottom:20px;
+    background-color: rgb(140,179,105,.19)
+}
+.icon{
+    border-right: 1px black solid;
+    padding-right:10px;
+}
+.login-text{
+    margin-left:10px;
+    font-size: .7em;
+    font-weight: 300;
+    background-color: rgb(140,179,105,.0);
+    border:0;
+    
+    height:100%;
+}

@@ -1,0 +1,38 @@
+.login-page{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../cooking.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width:100vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-comp{
+    background-color: white;
+    height:77vh;
+    width:33vw;
+    text-align: center;
+    padding:15px;
+    font-size: 1.5em;
+    font-weight: 500;
+}
+img{
+    height:15vw;
+    height:15vw;
+}
+
+.login-button{
+    width:10vw;
+    font-size: .7em;
+    text-align: center;
+    font-weight: 300;
+    background-color: rgb(211,101,130,.19);
+    border-radius: 10px;
+    padding:10px;
+    border: 1px black solid;
+}
+.button-login-name{
+margin:0 auto;
+}

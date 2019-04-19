@@ -1,0 +1,10 @@
+input{
+    font-size: 1.0em;
+    font-family: OpenSans;
+    border: 1px #A6A6A6 solid;
+}
+.ti-text{
+    font-weight:500;
+    padding-left:10px;
+    padding-right:10px;
+}

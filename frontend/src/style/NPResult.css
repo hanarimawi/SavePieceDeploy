@@ -1,0 +1,19 @@
+.np-result{
+    border-radius: 10px;
+    background-color:rgb(211,101,130,.15);
+    width:40vw;
+    font-size: 1.3em;
+    font-weight: 300;
+    padding:10px;
+    margin:0 auto;
+    margin-bottom:2vh;
+}
+.np-text{
+    padding-left:2vw;
+    padding-right:2vw;
+    border-right: 1px black solid;
+}
+.np-text-last{
+    padding-left:2vw;
+    padding-right:2vw;
+}

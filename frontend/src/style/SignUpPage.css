@@ -1,0 +1,11 @@
+.signup-page{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../cooking.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width:100vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

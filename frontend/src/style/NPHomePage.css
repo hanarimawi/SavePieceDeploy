@@ -1,0 +1,39 @@
+.np-home-page{
+    background-color: rgb(211,101,130,.19);
+    height: 100vh;
+    width:100vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+img{
+    height:20vw;
+    width:20vw;
+    display:block;
+    margin:auto;
+}
+.np-home-title{
+    color:white;
+    font-size: 5em;
+    font-weight: 500;
+    margin:2vw;
+    -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+}
+.navigation{
+    border-bottom: 1px rgb(211,101,130,.54) solid;
+    position: absolute;
+    top:0;
+    left:0;
+    height:6vh;
+    width:100vw;
+    padding:1vh;
+}
+.nav-title{
+    display: inline-block;
+    font-size:1.5em;
+    font-weight: 200;
+    width:33vw;
+    text-align: center;
+}

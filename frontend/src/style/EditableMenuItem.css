@@ -1,0 +1,36 @@
+.menu-result{
+    border-radius: 10px;
+    background-color:rgb(211,101,130,.15);
+    width:47vw;
+    font-size: 1.3em;
+    font-weight: 300;
+    padding:10px;
+    margin:0 auto;
+    margin-bottom:2vh;
+    display:inline-block;
+}
+.menu-result-wrap{
+   display:inline-block;
+}
+
+.menu-text{
+    padding-left:2vw;
+    padding-right:2vw;
+    border-right: 1px black solid;
+}
+.menu-item{
+    border-radius: 5px;
+    border-color:white;
+    background-color:rgb(211,101,130,0);
+}
+.menu-text-last{
+    padding-left:2vw;
+    padding-right:2vw;
+}
+
+.five{
+    width:3.5em;
+}
+.three{
+    width:2.5em;
+}
